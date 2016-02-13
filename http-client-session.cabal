@@ -1,7 +1,7 @@
 name:
   http-client-session
 version:
-  0.1
+  0.1.1
 synopsis:
   A simple abstraction over the "http-client" connection manager
 category:
@@ -51,4 +51,4 @@ library
     --
     either >= 4.4 && < 5,
     mtl-prelude >= 2 && < 3,
-    base-prelude >= 0.1.21 && < 0.2
+    base-prelude >= 0.1.21 && < 2
