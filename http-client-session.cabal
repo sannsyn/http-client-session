@@ -45,7 +45,7 @@ library
     HTTPClient.Session
   build-depends:
     --
-    http-client >= 0.4.27 && < 0.5,
+    http-client >= 0.4.27 && < 0.6,
     --
     bytestring >= 0.10 && < 0.11,
     --
