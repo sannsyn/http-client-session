@@ -1,7 +1,7 @@
 name:
   http-client-session
 version:
-  0.1.1
+  0.1.2
 synopsis:
   A simple abstraction over the "http-client" connection manager
 category:
